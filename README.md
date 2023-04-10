@@ -6,7 +6,7 @@ Atualmente estou em processo de transição de carreira para a área de tecnolog
 
 Com o uso das ferramentas como JavaScript, React, NodeJS, Python, R, SQL, Power BI, entre outras, meu background academico e profisional, e meu constante vontade de apreender, posso ofrecer um bom desenvolvimento de produtos.
 
-*Meus comandos mais usados na terminal sao:
+**Meus comandos mais usados na terminal sao:**
 | Comando | DescriÇao                    |
 |---------|------------------------------|
 | ls | lista contenidos de un directorio |
