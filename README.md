@@ -1,7 +1,10 @@
-# Olá, sou Luis Alejandro Ariza Arredondo
-## Desenvolvedor Web Full Stack Jr | Cientista e Analista de Dados 
-Sou **Cientista e Analista de Dados**, com mais de 10 anos de experiência na área das Ciencias Marinhas e Pesqueiras, exercendo funções de Pesquisador e Docente em cursos de Graduação e Pós-Graduação, participando em vários Projetos de Investigação na área, e coordenando e organizando atividades científicas como Congressos, Conferências, Cursos.
+#¡Hola! Soy Luis Alejandro Ariza A.
+##Data Analyst
 
-Atualmente estou em processo de transição de carreira para a área de tecnologia, pela qual sou apaixonado, e desenvolvendo passo a passo, minhas Hard Skills como **Desenvolvedor Web Full Stack**, e fortalecendo minhas habilidades com outras ferramentas para análise de dados. 
+Soy un profesional en Ciencias con experiencia destacada en el **análisis de datos**. Mi pasión es aplicar mis habilidades en proyectos desafiantes que generen un impacto empresarial significativo.
 
-Com o uso das ferramentas como JavaScript, React, NodeJS, Python, R, SQL, Power BI, entre outras, meu background academico e profisional, e meu constante vontade de apreender, posso ofrecer um bom desenvolvimento de produtos.
+A lo largo de mi carrera, he liderado la planificación, ejecución y entrega de proyectos de análisis de datos en diversos entornos, desde la industria petrolera hasta la investigación científica. Utilizo metodologías ágiles y mis habilidades en programación en Python, R y herramientas como TensorFlow y scikit-learn para implementar soluciones innovadoras que impulsan el éxito del proyecto.
+
+Mi objetivo es seguir colaborando en proyectos innovadores donde pueda aplicar mi experiencia y conocimientos en análisis de datos para generar valor empresarial. Estoy entusiasmado por contribuir a equipos que compartan mi pasión por la ciencia de datos y la creación de soluciones efectivas. Estoy dispuesto a asumir desafíos en datos que brinden soluciones innovadoras en negocios, enfocado en el valor agregado de los productos IT.
+
+¡Espero conectar contigo y explorar cómo puedo contribuir a tu equipo!
