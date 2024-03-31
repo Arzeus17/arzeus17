@@ -1,5 +1,6 @@
-#¡Hola! Soy Luis Alejandro Ariza A.
-##Data Analyst
+# **¡Hola! Soy Luis Alejandro Ariza A.**
+
+## **Data Analyst**
 
 Soy un profesional en Ciencias con experiencia destacada en el **análisis de datos**. Mi pasión es aplicar mis habilidades en proyectos desafiantes que generen un impacto empresarial significativo.
 
